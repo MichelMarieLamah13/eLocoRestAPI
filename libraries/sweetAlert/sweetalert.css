@@ -1,0 +1,9 @@
+.swal-button{
+  font-size: 12px;
+}
+.swal-button--confirm {
+  background-color: #f27474;
+}
+.swal-button--cancel {
+  background-color: #4962B3;
+}
